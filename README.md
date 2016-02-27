@@ -9,18 +9,18 @@
     - Core Association Rule Mining functionality (Based on user defined support and confidence thresholds
     
   ##TECHNICAL SPECIFICATIONS
-    Database: MySql 5.5
-    IDE: Eclipse Luna
-    Tools used: MySQL Workbench
-    Database Name: healthcare
-    Web Technologies: JSP(Java Server Pages)
-    Server: Tomcat Server 7.0
-    Languages: Java
-    JSP Files: home.jsp, results.jsp
-    Dataset: dataset.arff
-    Languages: Java
-    Algorithms Used : Logistic Regression, CFS-subset-evaluation, Greedy-Stepwise, Association Rule Mining, CuSum
-    External Libraries: Libsvm-3.1.7-sources-jar, weka-dev-src.jar, weka-stable-3.6.10.jar
+        Database: MySql 5.5
+        IDE: Eclipse Luna
+        Tools used: MySQL Workbench
+        Database Name: healthcare
+        Web Technologies: JSP(Java Server Pages)
+        Server: Tomcat Server 7.0
+        Languages: Java
+        JSP Files: home.jsp, results.jsp
+        Dataset: dataset.arff
+        Languages: Java
+        Algorithms Used : Logistic Regression, CFS-subset-evaluation, Greedy-Stepwise, Association Rule Mining, CuSum
+        External Libraries: Libsvm-3.1.7-sources-jar, weka-dev-src.jar, weka-stable-3.6.10.jar
     
     
 ##STEPS
